@@ -5,6 +5,5 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Locker Combination
-PURPOSE OF PROJECT: Assignment
-VERSION or DATE: 9/1/2018
+DATE: 9/1/2018
 AUTHORS: Mustafa Nafia
